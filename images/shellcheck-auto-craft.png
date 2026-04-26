@@ -1,0 +1,20 @@
+<svg width="159" height="20" viewBox="0 0 1590 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open VSX downloads: 404">
+  <title>Open VSX downloads: 404</title>
+  <linearGradient id="ICSRf" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="LrdBN"><rect width="1590" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#LrdBN)">
+    <rect width="1280" height="200" fill="#555"/>
+    <rect width="310" height="200" fill="#94E" x="1280"/>
+    <rect width="1590" height="200" fill="url(#ICSRf)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="1180" fill="#000" opacity="0.25">Open VSX downloads</text>
+    <text x="50" y="138" textLength="1180">Open VSX downloads</text>
+    <text x="1335" y="148" textLength="210" fill="#000" opacity="0.25">404</text>
+    <text x="1325" y="138" textLength="210">404</text>
+  </g>
+  
+</svg>
