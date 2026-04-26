@@ -2,8 +2,6 @@
 
 Integrates [ShellCheck](https://github.com/koalaman/shellcheck) into VS Code, a linter for Shell scripts.
 
-[![Latest version](https://raw.githubusercontent.com/Astralvanfly/shellcheck-auto-craft/main/images/vscode-shellcheck.png)](https://github.com/vscode-shellcheck/vscode-shellcheck/releases/latest)
-[![Open VSX downloads](https://raw.githubusercontent.com/Astralvanfly/shellcheck-auto-craft/main/images/shellcheck-auto-craft.png)](https://open-vsx.org/extension/falduven/shellcheck-auto-craft)
 
 ## Quick start
 
